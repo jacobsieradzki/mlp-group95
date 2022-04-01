@@ -1,4 +1,6 @@
 tests/*
+cache/*
+images/*
 google_api_key
 meadows_crop/
 .vscode

@@ -1,2 +1,4 @@
 tests/*
 google_api_key
+meadows_crop/
+.vscode
